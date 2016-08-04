@@ -1,0 +1,2 @@
+$(document).ready(function(){$("#owl-product-slider").owlCarousel({navigation:!1,slideSpeed:300,paginationSpeed:400,singleItem:!0,autoPlay:!0,stopOnHover:!0,loop:!0,rewindSpeed:1e3,rewindNav:!0}),$("#owl-brand-slider").owlCarousel({navigation:!1,slideSpeed:200,paginationSpeed:500,singleItem:!1,autoPlay:!0,items:6,stopOnHover:!0,loop:!0,rewindSpeed:1e3,rewindNav:!0,pagination:!1})});
+//# sourceMappingURL=maps/home-page-sliders.js.map
